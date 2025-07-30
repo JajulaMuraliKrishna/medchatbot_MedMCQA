@@ -1,0 +1,8 @@
+transformers
+accelerate
+langgraph
+faiss-cpu
+sentence-transformers
+pandas
+numpy
+torch
